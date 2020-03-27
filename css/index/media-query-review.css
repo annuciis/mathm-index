@@ -1,0 +1,47 @@
+
+
+
+@media(max-width:991px)  {
+
+    .review-portrait{
+      width:15%;
+    }
+  
+} 
+  
+
+@media(max-width:767px){
+  
+    .review-text{
+      font-size: 2rem;;
+    }
+}
+
+
+@media(max-width:678px){
+
+    .review-portrait{
+      width:18%;
+    }
+}
+
+@media(max-width:600px){
+
+    .review-text{
+      font-size: 1.7rem;
+    }
+}
+
+
+@media(max-width:525px){
+
+    .review-portrait{
+    width:22%;
+    }
+}
+
+  @media(max-width:400px){
+    .review-portrait{
+    width:25%;
+    }
+}

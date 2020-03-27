@@ -1,0 +1,34 @@
+@media(max-width:767px){
+
+      .contact-icon-list{
+          margin: 10% 0 5% ;
+      }
+    
+      .gform{
+        margin-top:10%;
+      }
+}
+   
+@media(max-width:600px){
+
+    .gform{
+      margin-top: 12%;
+    }
+  
+}
+  
+  
+@media(max-width:500px){
+
+    .message-button{
+      width:30%;
+    }
+  
+}
+  
+@media(max-width:400px){
+ 
+      .message-button{
+        width:35%;
+      }
+}

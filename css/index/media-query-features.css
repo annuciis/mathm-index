@@ -1,0 +1,35 @@
+@media(max-width:991px)  {
+
+    .features-list-element{
+      margin-bottom: 6%;
+    }
+}
+
+@media(max-width:850px){
+    .features-list-element{
+      margin-bottom: 7.5%;
+    }
+}
+
+
+@media(max-width:767px){
+
+    
+    .features-list-element{
+      margin:6% 0;
+    }
+}
+
+@media(max-width:500px){
+
+    .features-list-element{
+      margin:5% 0;
+    }
+}
+
+@media(max-width:400px){
+
+    .features-list-element{
+      margin:8% 0;
+    }
+}

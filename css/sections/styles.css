@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: #f9d2c0;
+    
+
+}
+
+.navbar{
+    background-color: #AC3B61;
+    
+}
+
+
+.sections-box{
+    background-color:  #fddccb;
+    width: 50%;
+    margin:10% auto;
+
+}
+.section{
+    border: 1px solid #123c69;
+}
+.section-option{
+    font-family: 'Overpass', sans-serif;
+    color: #123c69;
+    
+}

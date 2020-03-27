@@ -1,0 +1,55 @@
+@media(max-width:991px)  {
+
+    .exam.benefit-box{
+      margin-bottom: 5%;
+    }
+    .exam.benefit-box .benefit-image{
+      margin-top:3%;
+    }
+    .benefit-image{
+      width:180px;
+      height:180px;
+    }
+}
+
+@media(max-width:767px){
+
+    .benefit-image{
+      width:170px;
+      height:170px;
+    }
+    .exam.benefit-box{
+      margin-bottom: 10%;
+    }
+  
+    .exam.benefit-box .benefit-image{
+      margin-top:15%;
+    }
+}
+
+@media(max-width:525px){
+    .benefit-image{
+      width:150px;
+      height:150px;
+    }
+    .exam.benefit-box{
+      margin-bottom: 15%;
+    }
+}
+
+@media(max-width:500px){
+
+    .benefit-images-row{
+      margin-bottom: 8%;
+      
+    }
+}
+
+
+@media(max-width:419px){
+
+    .benefit-images-row{
+      margin-bottom: 12%;
+      
+    }
+}
